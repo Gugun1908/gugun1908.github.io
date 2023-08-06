@@ -1,0 +1,23 @@
+body {
+  min-height: 3000px;
+}
+
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #e2edff;
+}
+
+#project {
+  background-color: #e2edff;
+}
+h2 {
+  padding-bottom: 2rem;
+}
+
+#contact {
+  background-color: #ffffff;
+}
+
+section {
+  padding-top: 5rem;
+}
